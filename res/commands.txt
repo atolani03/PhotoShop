@@ -1,0 +1,10 @@
+load koala.jpg batman
+blur batman batmanblur
+convert batmanblur bmp batmanblur.bmp
+sepia batman batmansepia
+convert batmansepia jpg batmansepia.jpg
+sharpen batman batmansharpen
+convert batmansharpen png batmansharpen.png
+greyscale batman batmangrey
+convert batmangrey bmp batmangrey.bmp
+quit
